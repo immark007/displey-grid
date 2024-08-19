@@ -1,0 +1,22 @@
+.aside{
+    grid-area: aside;
+}
+
+.options{
+    margin: 50px 20px;
+    position: fixed;
+}
+
+.options ul{
+    display: flex;
+    flex-direction: column;
+    list-style: none;
+}
+
+.options li{
+    padding: 10px 0;
+}
+
+.options a{
+    text-decoration: none;
+}
